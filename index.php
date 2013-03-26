@@ -1,5 +1,5 @@
-<html>
 <?php include('header.php'); ?>
+<html>
 <body>
 <table align="center" width="75%" bgcolor="#E0FFD6" border="0" cellspacing="0" cellpadding="5">
 	<tr>
@@ -23,7 +23,7 @@ This is part of the Free Solutions project by e-Dynamics. Applications included 
 <b><i>Release Notes:</i></b>
 <br>
 <br>
-<i>ver. 1.0</i>: Offline implementation using Command Line Interface (CLI
+<i>ver. 1.0</i>: Offline implementation using Command Line Interface (CLI)
 <br>
 <br>
 <i>ver. 1.1</i>: Enabled multiple computation

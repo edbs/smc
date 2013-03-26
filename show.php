@@ -1,5 +1,5 @@
-<html>
 <?php include('header.php'); ?>
+<html>
 <body>
 <table align="center" width="75%" bgcolor="#C2FFC2" border="0" cellspacing="0" cellpadding="5">
 	<tr>

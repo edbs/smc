@@ -1,5 +1,5 @@
-<html>
 <?php include('header.php'); ?>
+<html>
 <body>
 <?php
 // input

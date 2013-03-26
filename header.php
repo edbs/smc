@@ -1,3 +1,4 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Frameset//EN" "http://www.w3.org/TR/html4/frameset.dtd">
 <html>
 <head>
 <meta name="description" content="Stock Market Calculator (SMC) is an online tool that will calculate necessary expenses incurred in Stock Market Trading on Philippine Stocks Exchange. />
@@ -22,4 +23,4 @@
 	</tr>
 </table>
 </body>
-<html>
+</html>
