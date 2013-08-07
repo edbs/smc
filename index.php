@@ -1,7 +1,7 @@
 <?php include('header.php'); ?>
 <html>
 <body>
-<table align="center" width="75%" bgcolor="#E0FFD6" border="0" cellspacing="0" cellpadding="5">
+<table align="center" width="75%" bgcolor="#FFFFFF" border="0" cellspacing="0" cellpadding="5">
 	<tr>
 		<td align="center">
 			<table border="2" bordercolor="#C0C0C0" bgcolor="#000000" width="250">
@@ -11,7 +11,7 @@
 			</table>
 	</tr>
 	<tr>
-		<td><img src="logo.jpg" style="float:right">Stock Market Calculator (SMC) is an online tool that will calculate necessary expenses incurred in Stock Market Trading on Philippine Stocks Exchange. This application is still under continuous development so you could expect more functionalities and features on future releases.
+		<td><img src="images/logo.jpg" style="float:right">Stock Market Calculator (SMC) is an online tool that will calculate necessary expenses incurred in Stock Market Trading on Philippine Stocks Exchange. This application is still under continuous development so you could expect more functionalities and features on future releases.
 <br>
 <br>
 This is part of the Free Solutions project by e-Dynamics. Applications included in the project are designed to provide useful problem solving tools that are acceessible to everyone.

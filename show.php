@@ -1,7 +1,7 @@
 <?php include('header.php'); ?>
 <html>
 <body>
-<table align="center" width="75%" bgcolor="#C2FFC2" border="0" cellspacing="0" cellpadding="5">
+<table align="center" width="75%" bgcolor="#FFFFFF" border="0" cellspacing="0" cellpadding="5">
 	<tr>
 		<td>Fill out the following and click submit.
 	</tr>
