@@ -3,7 +3,7 @@
 <head>
 <meta name="description" content="Stock Market Calculator (SMC) is an online tool that will calculate necessary expenses incurred in Stock Market Trading on Philippine Stocks Exchange. />
 <meta name="keywords" content="stock market, stocks, money, broker, computation, finance, student, business, calculator, free, application" />
-<meta name="description" content="Online geometry calculator" />
+<meta name="description" content="Online Stock Market Calculator" />
 <title>SMC</title>
 <a href="index.php"><h1 align="center"><font color="#0000cc">Stock Market Calculator</font></h1></a>
 <h4 align="center"><i>ver. 2.0.2</i></h4>
